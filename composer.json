@@ -1,0 +1,15 @@
+{
+  "name": "lzy/mullenloweprofero-wechat",
+  "authors": [
+    {
+      "name": "lzy",
+      "email": "1525321920@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Mullenloweprofero\\Wechat\\": "src/"
+    }
+  }
+}
